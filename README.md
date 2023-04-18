@@ -1,5 +1,8 @@
-# Nsadfhs-README.md
-Hi~ I`m Ted
+# Hi~ I`m Ted
+
+<div align=center>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+</div>
 
 
 <div align=center><h1>📚 STACKS</h1></div>
